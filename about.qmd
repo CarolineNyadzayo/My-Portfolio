@@ -1,0 +1,12 @@
+---
+title: "About Me"
+format: html
+---
+
+
+I bring a wealth of cultural experience, transferable skills and personal drive.
+I am wanderlust who has traveleld across 16 countries and appreciates cultural diversity, dancing and playing golf.
+My professional interests are in personal development, organisational transformation and leadership. So I hope to make a difference through consulting practice.
+
+
+<img src="images/what you think.JPG" alt="What you think" style="width: 60%; border-radius: 10px;" />
